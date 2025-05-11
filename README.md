@@ -93,7 +93,7 @@ If you're using the compiled executable (TIA-Project-Creator.exe), simply double
 
 - Click on Create Project to start the process.
 
-##How it Works
+## How it Works
 
 1. Create TIA Project: The script will create a new TIA Portal project in the specified location.
 
