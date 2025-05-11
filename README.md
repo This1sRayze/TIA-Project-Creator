@@ -35,29 +35,31 @@ pip install -r requirements.txt
 
 - Clone this repository or download the zip file containing the project.
 
+
 2. Prepare the Template Excel File:
 
 - The project requires an Excel file (template.xlsx) with specific columns:
 
-A. DeviceType: Type of the device (e.g., PLC, IO device).
+ A. DeviceType: Type of the device (e.g., PLC, IO device).
 
-B. DeviceName: Name of the device.
+ B. DeviceName: Name of the device.
 
-C. MLFB: The order number for the device.
+ C. MLFB: The order number for the device.
 
-D. IP: The IP address to assign to the device.
+ D. IP: The IP address to assign to the device.
 
-E. SubnetName: The name of the subnet to which the device will belong.
+ E. SubnetName: The name of the subnet to which the device will belong.
 
-F. ModuleOrderNumberX: The order numbers of the modules to plug into the device.
+ F. ModuleOrderNumberX: The order numbers of the modules to plug into the device.
 
-G. ModuleNameX: The names of the modules.
+ G. ModuleNameX: The names of the modules.
 
 - Example of template.xlsx is in folder
 
+
 3. Configure TIA Portal Version:
 
-Set the version in the TIA Portal Version input field when using the GUI (defaults to 18).
+- Set the version in the TIA Portal Version input field when using the GUI (defaults to 18).
 
 ## Running the Script:
 
